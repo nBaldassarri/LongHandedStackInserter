@@ -1,9 +1,9 @@
 {
-  "name": "fire-armor",
+  "name": "factorio-mod-test",
   "version": "0.1.0",
-  "title": "Fire Armor",
+  "title": "Long-handed stack inserter",
   "author": "Nicolas Baldassarri",
   "factorio_version": "1.1",
   "dependencies": ["base >= 1.1"],
-  "description": "This mod adds in fire armor that leaves behind damaging fire as you walk around."
+  "description": "This mod add Long-handed stack inserter"
 }
