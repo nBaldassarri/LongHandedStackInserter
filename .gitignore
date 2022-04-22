@@ -9,6 +9,8 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 
+*.replit
+
 ### IntelliJ IDEA ###
 .idea
 *.iws
